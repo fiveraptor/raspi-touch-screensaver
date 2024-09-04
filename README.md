@@ -19,7 +19,7 @@ sudo apt install python3-evdev
 ## Usage
 1. Clone the Repository
     ```
-    git clone https://github.com/yourusername/touchscreen-screensaver.git
+    git clone https://github.com/fiveraptor/raspi-touch-screensaver.git
     cd touchscreen-screensaver
     ```
 2. Modify the Script
