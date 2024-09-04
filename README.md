@@ -20,7 +20,7 @@ sudo apt install python3-evdev
 1. Clone the Repository
     ```
     git clone https://github.com/fiveraptor/raspi-touch-screensaver.git
-    cd touchscreen-screensaver
+    cd raspi-touch-screensaver
     ```
 2. Modify the Script
 Update the "BRIGHTNESS_FILE" on line 7 and "InputDevice" path one line 32 in the script to match your system configuration.
